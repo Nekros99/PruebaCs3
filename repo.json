@@ -1,0 +1,13 @@
+{
+  "name": "Mi Repositorio Personal",
+  "description": "Mis propios plugins para CloudStream",
+  "language": "es",
+  "plugins": [
+    {
+      "name": "AnimeFlvOne",
+      "description": "Anime en español desde AnimeFlv",
+      "url": "https://raw.githubusercontent.com/Nekros99/PruebaCs3/main/plugins/Animeflvone.js",
+      "version": "1.0.0"
+    }
+  ]
+}
