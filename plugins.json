@@ -1,0 +1,17 @@
+[
+  {
+    "name": "AnimeFlv",
+    "internalName": "AnimeFlvPlugin",
+    "authors": [
+      "Nekros99"
+    ],
+    "version": 1,
+    "description": "Proveedor personalizado para AnimeFlv",
+    "tvTypes": [
+      "Anime"
+    ],
+    "language": "es",
+    "iconUrl": "",
+    "url": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/AnimeFlv.cs3"
+  }
+]
