@@ -5,6 +5,7 @@
 // type: series  //
 // ==/Provider==
 
+
 // Función para mostrar el listado en la pestaña de Inicio
 function loadHome() {
     let html = fetch(baseUrl);
